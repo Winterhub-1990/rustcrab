@@ -1,29 +1,21 @@
-## [0.2.1](https://github.com/FrancescoXX/rustcrab/compare/v0.2.0...v0.2.1) (2024-10-01)
+# 0.3.0 (2025-03-10)
 
 
 ### Bug Fixes
 
-* [#157](https://github.com/FrancescoXX/rustcrab/issues/157) ([#158](https://github.com/FrancescoXX/rustcrab/issues/158)) ([d951365](https://github.com/FrancescoXX/rustcrab/commit/d9513656f3e903f581d2ae323fc1244f1e60d9dd))
-
-
-
-# [0.2.0](https://github.com/FrancescoXX/rustcrab/compare/f72bc7bec3740e3fdc462a456d84a04320606345...v0.2.0) (2024-08-30)
-
-
-### Bug Fixes
-
-* [#26](https://github.com/FrancescoXX/rustcrab/issues/26) ([b4046b4](https://github.com/FrancescoXX/rustcrab/commit/b4046b495d4d1ea86422dae75715740c374c8b84))
-* [#32](https://github.com/FrancescoXX/rustcrab/issues/32) ([f72bc7b](https://github.com/FrancescoXX/rustcrab/commit/f72bc7bec3740e3fdc462a456d84a04320606345))
-* [#97](https://github.com/FrancescoXX/rustcrab/issues/97) footer over cookie consent form ([635fc01](https://github.com/FrancescoXX/rustcrab/commit/635fc011d02025d2df1b329e15dff3e8a7c8c4e6))
-* [#97](https://github.com/FrancescoXX/rustcrab/issues/97) footer over cookie consent form ([3050aa0](https://github.com/FrancescoXX/rustcrab/commit/3050aa02950cf9bbf4028cae9d59fc4d8222e6df))
+* [#157](https://github.com/Winterhub-1990/rustcrab/issues/157) ([#158](https://github.com/Winterhub-1990/rustcrab/issues/158)) ([ff94071](https://github.com/Winterhub-1990/rustcrab/commit/ff94071a0d57939436013f0397b64244d2c1ff76))
+* [#26](https://github.com/Winterhub-1990/rustcrab/issues/26) ([11ffd66](https://github.com/Winterhub-1990/rustcrab/commit/11ffd666ff73acec5c1629002f420ca1a063b73c))
+* [#32](https://github.com/Winterhub-1990/rustcrab/issues/32) ([3959bb7](https://github.com/Winterhub-1990/rustcrab/commit/3959bb7a52d6f386ca081c430b489a94cecabfce))
+* [#97](https://github.com/Winterhub-1990/rustcrab/issues/97) footer over cookie consent form ([f6cb5f2](https://github.com/Winterhub-1990/rustcrab/commit/f6cb5f26c91e95f4501040278ea2ef12a8eaa818))
+* [#97](https://github.com/Winterhub-1990/rustcrab/issues/97) footer over cookie consent form ([d441dd0](https://github.com/Winterhub-1990/rustcrab/commit/d441dd0c01e8ab14401a62a0f972feadbb21c322))
 
 
 ### Features
 
-* add books section ([ad0034a](https://github.com/FrancescoXX/rustcrab/commit/ad0034af577289812c27cfacc5c591782394696d))
-* add people section ([b31d2be](https://github.com/FrancescoXX/rustcrab/commit/b31d2becc0f123bd8f26f22a76954b4a4784fdc3))
-* add projects section ([a5647aa](https://github.com/FrancescoXX/rustcrab/commit/a5647aad1b989566b3f4516f297c7872de93f516))
-* lessons complete ([1a7c7c5](https://github.com/FrancescoXX/rustcrab/commit/1a7c7c5f773905cf9790e6686c408704540d11e6))
+* add books section ([73026be](https://github.com/Winterhub-1990/rustcrab/commit/73026be503ef9e410436ac025cd8c6d81675ee75))
+* add people section ([786d789](https://github.com/Winterhub-1990/rustcrab/commit/786d789c9aaf1b99bd81da125f0da1737e8f405e))
+* add projects section ([e7bb974](https://github.com/Winterhub-1990/rustcrab/commit/e7bb974c3336b8990ae15550fff3a562799ade6f))
+* lessons complete ([71442c0](https://github.com/Winterhub-1990/rustcrab/commit/71442c0fe874f8536bbeef19d5679144e43f9fc1))
 
 
 
